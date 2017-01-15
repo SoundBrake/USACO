@@ -10,6 +10,14 @@ LANG: JAVA
 TASK: ride
 */
 
+/**
+ * 
+ * @author:Mary Jiang
+ * @Date:Jan 14, 2017
+ * @Email: mesuper222@gmail.com
+ *
+ */
+
 public class ride {
 
 	 public static void main (String [] args) throws IOException {
