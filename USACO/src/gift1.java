@@ -19,7 +19,7 @@ TASK: gift1
  *
  */
 
-class gift1 {
+public class gift1 {
 
 	public static void main(String[] args) throws IOException{
 		// read in file and print out
